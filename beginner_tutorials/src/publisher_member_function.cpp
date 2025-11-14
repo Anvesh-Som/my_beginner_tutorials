@@ -43,6 +43,7 @@
 #include <memory>
 #include <string>
 
+#include "beginner_tutorials/srv/set_base_string.hpp"
 #include "rclcpp/rclcpp.hpp"
 #include "std_msgs/msg/string.hpp"
 
