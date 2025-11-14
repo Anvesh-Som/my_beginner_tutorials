@@ -1,0 +1,5 @@
+string base
+---
+bool success
+string message
+
