@@ -16,6 +16,7 @@ git clone https://github.com/<your-user>/my_beginner_tutorials.git
 cd ..
 colcon build --packages-select beginner_tutorials
 source install/setup.bash
+```
 
 # Part 2
 
